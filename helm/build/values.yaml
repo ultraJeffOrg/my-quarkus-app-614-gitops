@@ -1,0 +1,15 @@
+app:
+  name: my-quarkus-app-614
+  namespace: my-quarkus-app-614-dev
+  cluster: .apps.cluster-rrhxg.rrhxg.sandbox84.opentlc.com
+
+git:
+  branch: main
+  repo: https://github.com/ultraJeffOrg/my-quarkus-app-614
+  org: ultraJeffOrg
+  name: my-quarkus-app-614
+
+image:
+  host: image-registry.openshift-image-registry.svc:5000
+  name: my-quarkus-app-614
+  tag: latest
