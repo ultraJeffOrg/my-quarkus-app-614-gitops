@@ -1,7 +1,7 @@
 app:
   name: my-quarkus-app-614
   namespace: my-quarkus-app-614-dev
-  cluster: .apps.cluster-rrhxg.rrhxg.sandbox84.opentlc.com
+  cluster: .apps.cluster-sbgtr.sbgtr.sandbox1658.opentlc.com
 
 git:
   branch: main
